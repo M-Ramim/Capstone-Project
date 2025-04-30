@@ -1,10 +1,17 @@
 # Purpose/Problem Statement
-What does your program do? What problem/need is it addressing?
-# Target Audience - Who is this for? (ex: students, gamers, young adults, etc.)
-# Solution + Limitations - How does your project solve the problem?
-# Are there actions your program would do to solve the problem but doesn’t do?
-Key Features / Key Components - List major parts of your program (what the user can do or see).
-# Technical Challenges + Future Plans - What was hard to figure out? 
-# What do you wish you could add if you had more time or more experience?
-Project Timeline - Briefly explain how you broke this project up across days, weeks, or months.
-Tools and Resources Used - Include websites, docs, videos, AI, etc.
+My program allows user to sign in or sign up. The problem is the user wants to safely enter their information. 
+# Target Audience
+My targeted audience is ClubFinder app users who are trying sign in or sign up. 
+# Solution + Limitations 
+It lets ClubFinder user to safely sign in or sign up. 
+The potential my program has is that when a new user wants to sign up the program recommends them random password for their account. 
+# Key Features / Key Components
+Users have the option to chose wheather if the user wants login or sign up. 
+# Technical Challenges + Future Plans 
+How can I make sure that the program can check if the user is already signed up or its a new user. 
+Give users random passwords when signing up. 
+# Project Timeline 
+First day I worte what the program is going to be and how its going to work. After that I changed my texts to code each day. 
+# Tools and Resources Used 
+Used Google Docs for planning. 
+
